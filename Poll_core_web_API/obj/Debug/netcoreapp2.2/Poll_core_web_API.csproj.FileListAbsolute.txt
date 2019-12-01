@@ -1,0 +1,14 @@
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\bin\Debug\netcoreapp2.2\Poll_core_web_API.deps.json
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\bin\Debug\netcoreapp2.2\Poll_core_web_API.runtimeconfig.json
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\bin\Debug\netcoreapp2.2\Poll_core_web_API.runtimeconfig.dev.json
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\bin\Debug\netcoreapp2.2\Poll_core_web_API.dll
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.csprojAssemblyReference.cache
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.csproj.CoreCompileInputs.cache
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.RazorAssemblyInfo.cache
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.RazorAssemblyInfo.cs
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.AssemblyInfoInputs.cache
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.AssemblyInfo.cs
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.RazorTargetAssemblyInfo.cache
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\bin\Debug\netcoreapp2.2\Poll_core_web_API.pdb
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.dll
+C:\Users\stijn\source\repos\Poll_core_web_API\Poll_core_web_API\obj\Debug\netcoreapp2.2\Poll_core_web_API.pdb
